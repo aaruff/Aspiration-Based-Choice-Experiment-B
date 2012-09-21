@@ -1,1 +1,1 @@
-##Aspiration Based Choice Experiment (Treatment: Before)
+##Aspiration-Based Choice Experiment (Treatment: Before)
